@@ -20,13 +20,13 @@ Read the description of each script below.
 The scripts will be executed after the Prune Scene is cleared and before the scene itself is saved, during mass processing of Batch Prune!
 
 # Brief description of scripts
-[All GBuffer to 0](./PSES-All-GBuffer-To-0.ms)- The script returns the GBuffer value (in object properties) to the default value 0 for all objects, when bulk processing files in Batch Prune.
+[PSES-All-GBuffer-To-0](./PSES-All-GBuffer-To-0.ms) - The script returns the GBuffer value (in object properties) to the default value 0 for all objects, when bulk processing files in Batch Prune.
 
-__Remove All Layers__ - The script deletes all layers and moves all objects to layer default(0), when bulk processing files in Batch Prune.
+[PSES-Remove-All-Layers](./PSES-Remove-All-Layers.ms) - The script deletes all layers and moves all objects to layer default(0), when bulk processing files in Batch Prune.
 
-__Remove Cameras And Lights__ - The script deletes all cameras and lights, when bulk processing files in Batch Prune.
+[PSES-Remove-Cameras-And-Lights](./PSES-Remove-Cameras-And-Lights.ms) - The script deletes all cameras and lights, when bulk processing files in Batch Prune.
 
-__Zoom And Show Maps In Viewport__ - The script makes Zoom Extends and turns on the visibility of all textures in Viewport, when bulk processing files in Batch Prune.
+[PSES-Zoom-And-Show-Maps](./PSES-Zoom-And-Show-Maps.ms) - The script makes Zoom Extends and turns on the visibility of all textures in Viewport, when bulk processing files in Batch Prune.
 
 # Disclaimer
 Some scripts remove objects or layers from the scene and can cause irreparable harm to your 3D Max files.
