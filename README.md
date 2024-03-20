@@ -17,7 +17,7 @@ Read the description of each script below.
 - In the “External Scripts (.ms)” window that opens, add the necessary scripts;
 - Sort scripts by priority if necessary using the context menu.
 
-The scripts will be executed after the Prune Scene is cleared and before the scene itself is saved.
+The scripts will be executed after the Prune Scene is cleared and before the scene itself is saved, during mass processing of Batch Prune!
 
 # Brief description of scripts
 __All GBuffer to 0__ - The script returns the GBuffer value (in object properties) to the default value 0 for all objects, when bulk processing files in Batch Prune.
