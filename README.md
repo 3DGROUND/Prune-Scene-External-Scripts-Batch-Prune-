@@ -20,7 +20,7 @@ Read the description of each script below.
 The scripts will be executed after the Prune Scene is cleared and before the scene itself is saved, during mass processing of Batch Prune!
 
 # Brief description of scripts
-__All GBuffer to 0__ - The script returns the GBuffer value (in object properties) to the default value 0 for all objects, when bulk processing files in Batch Prune.
+[All GBuffer to 0](./PSES-All-GBuffer-To-0.ms)- The script returns the GBuffer value (in object properties) to the default value 0 for all objects, when bulk processing files in Batch Prune.
 
 __Remove All Layers__ - The script deletes all layers and moves all objects to layer default(0), when bulk processing files in Batch Prune.
 
