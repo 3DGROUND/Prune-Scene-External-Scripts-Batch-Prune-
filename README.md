@@ -6,7 +6,7 @@ https://3dground.net/en/prod/prune-scene-2180817
 
 
 # How to download the script?
-On this page, select the PSES-***.ms script that interests you, click on it, in the page that opens, click Download Raw file
+On this page, select the __PSES-***.ms__ script that interests you, click on it, in the page that opens, click Download Raw file
 
 # How to add a script to a run list?
 - Open Prune Scene
